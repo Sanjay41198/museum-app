@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/museum-app/static/css/main.0381a4a1.css",
+    "main.css": "/museum-app/static/css/main.54d5835c.css",
     "main.js": "/museum-app/static/js/main.a6182e87.js",
     "static/js/82.b621745e.chunk.js": "/museum-app/static/js/82.b621745e.chunk.js",
     "index.html": "/museum-app/index.html",
-    "main.0381a4a1.css.map": "/museum-app/static/css/main.0381a4a1.css.map",
+    "main.54d5835c.css.map": "/museum-app/static/css/main.54d5835c.css.map",
     "main.a6182e87.js.map": "/museum-app/static/js/main.a6182e87.js.map",
     "82.b621745e.chunk.js.map": "/museum-app/static/js/82.b621745e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0381a4a1.css",
+    "static/css/main.54d5835c.css",
     "static/js/main.a6182e87.js"
   ]
 }
